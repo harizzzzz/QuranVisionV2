@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+
+    <item
+        android:id="@+id/learnIzhar"
+        android:icon="@android:drawable/ic_menu_send"
+        android:title="Izhar Shafawee" />
+
+    <item
+        android:id="@+id/learnIdgham"
+        android:icon="@android:drawable/ic_menu_send"
+        android:title="Idgham Shafawee"/>
+
+    <item
+        android:id="@+id/learnIkhfa"
+        android:icon="@android:drawable/ic_menu_send"
+        android:title="Ikhfa' Shafawee"/>
+
+</group>
+</menu>

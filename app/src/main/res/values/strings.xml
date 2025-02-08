@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">QuranVision</string>
+    <string name="gpu">GPU</string>
+    <string name="yolov9_object_detect">YOLOv11 Object Detection</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="izhar">Bacaan Izhar Syafawi ialah dengan cara MENZAHIRKAN atau MENJELASKAN sebutan Mim Sakinah apabila bertemu dengan 26 huruf selain م dan ب , dengan merapatkan bibir dan menahan suara dari naik ke pangkal hidung bagi mengelakkan keluarnya suara dengung. Bagi memastikan tiada dengung pada sebutan mim, maka bibir hendaklah dibuka semula dengan cepat setelah ia dirapatkan.</string>
+    <string name="izharEng">
+        Izhar Shafawi means to pronounce the letters that follow meem sakin with no Ghunna and this rule applies to all Arabic letters except Ba and meem.
+        \n\nIt is called Shafawi because the meem is produced by applying lips tightly above each other.
+        \n\nRemember the letter Fa and waw are close to the meem in their articulation point, so be careful to recite both two letters separately and clearly when they follow meem sakinah.\n\nFor example: “أزكى لكم وأطهر”، “ولهم فيها
+
+    </string>
+
+
+    <string name="app_logo">QuranVision</string>
+    <string name="app_description">QuranVision is an AI-powered mobile application that helps users improve their Quranic recitation by providing real-time feedback on tajweed rules using image detection technology.</string>
+    <string name="key_features">Key Features</string>
+    <string name="how_it_works">How It Works</string>
+    <string name="our_mission">Our Mission</string>
+    <string name="about_team">About the Team</string>
+    <string name="contact_support">Contact &amp; Support</string>
+    <string name="mission_description">Our mission is to make Quranic learning accessible to everyone through innovative technology.</string>
+    <string name="team_description">This app was developed by a passionate team dedicated to leveraging AI for educational and spiritual growth.</string>
+</resources>
